@@ -54,7 +54,7 @@ a {
     font-size: 1em; don't need this
 }*/
 
-main {
+.background {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
