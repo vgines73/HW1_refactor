@@ -199,15 +199,14 @@ aside {
     max-width: 150px;
 } condensed to aside*/
 
-#footer {
-    visibility: hidden;
-    /*padding: 30px;*/ /*removed padding*/
+#footer { /*hid footer*/
+    visibility: hidden; 
+    /*padding: 30px;*/ /*removed padding to fix spacing*/
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-#footer h2 {
+#footer h2 { /*hid footer*/
     font-size: 1.25em;
 }
-/*hid footer*/
