@@ -40,11 +40,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: block;
-}
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -54,7 +50,7 @@ a {
     font-size: 1em; don't need this
 }*/
 
-.background {
+main {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -77,6 +73,12 @@ article {
 .float-right {
     float: right;
     margin-left: 40px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
 }
 /*moved all of .articles up to follow html format*/
 
@@ -204,7 +206,7 @@ aside {
     /*padding: 30px;*/ /*removed padding to fix spacing*/
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 #footer h2 { /*hid footer*/
