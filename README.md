@@ -1,3 +1,4 @@
+Homework was pretty much refactor existing websitemeeting accessibility standards.
 So pretty this is what I did:
     -Website meets accessibility standards to make own site optimized for search engines:
         WHEN I view the source code
@@ -16,6 +17,8 @@ So pretty this is what I did:
     -CSS commenting for all changes
     -Application loads with no errors
     -Link to deployed application: https://vgines73.github.io/HW1_refactor/
+
+    -Screenshot: https://i.postimg.cc/8kvk9yJG/screencapture-vgines73-github-io-HW1-refactor-2020-10-02-13-13-37.png
 
     Just a heads up:
         I had a lot of trouble with pushing it into my repo so I don't have a ton of commits. I ended up doing most of my work before I was able to get it on my repo. 
